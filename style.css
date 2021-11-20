@@ -96,8 +96,36 @@ p
 p a
 {
     text-decoration: none;
-    color: ##7aa5d2;
+    color: #7aa5d2;
 }
+
+/******************************************************************************/
+
+
+/* images */
+
+img {
+    vertical-align: top;
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+    margin: 20px;
+}
+
+.logo-titre {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo-simple {
+    width: 140px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 /******************************************************************************/
 /* pied de la page */
